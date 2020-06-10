@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d26f81e07549d0928aad9b0547c2e24c",
+    "revision": "ee00fde52d07e8f731397445b7597bfc",
     "url": "/gol/index.html"
   },
   {
-    "revision": "2414407c917733aef90b",
+    "revision": "87f1fea7a06e6f3d55a5",
     "url": "/gol/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gol/static/js/2.2f5ef2c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2414407c917733aef90b",
-    "url": "/gol/static/js/main.c370ba89.chunk.js"
+    "revision": "87f1fea7a06e6f3d55a5",
+    "url": "/gol/static/js/main.f2207ca3.chunk.js"
   },
   {
     "revision": "052ff529ea7dd7f4f583",
